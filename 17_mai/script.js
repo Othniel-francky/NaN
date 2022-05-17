@@ -6,5 +6,5 @@ let button = document.gentlementById('button');
 
 //add event listener
 button.addEventlistener('click', function(){
-    
+    ;  
 }
