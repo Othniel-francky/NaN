@@ -1,0 +1,50 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+.barre{
+    width: 430px;
+    height: 600px;
+    border: 2px solid;
+    border-radius: 8px;
+    padding: 0 50px;
+    background-color: darkgray;
+
+}
+div div input{
+    width: 100%;
+    min-height: 83px;
+    margin-top: 20px;
+    background-color: gray;
+    border-radius: 10px;
+}
+
+button{
+    padding: 20px;
+    background-color: gray;
+}
+
+.belle{
+    margin-top: 10px;
+    height: 100px;
+    border-radius: 50px;
+}
+.bon{
+    margin-top: 80px;
+    display: flex;
+    
+}
+.blan{
+    margin-left: 100px;
+}
+    
+.point{
+}
+
+.num1{
+    margin-left: 5px;
+
+}
+.num2{
+  margin-left: 5px;
+}
